@@ -6,7 +6,7 @@ This starter template is using create-react-app and is using the MERN stack. Not
 # Getting Started
 Start by cloning the repo
 
-`git clone https://github.com/ccsalazar/react-mysql-boilerplate.git MyApp` 
+`git clone https://github.com/Mbilalshafqat/ReactBoilerPlate-MySql-.git` 
 
 There are two package.json files that will need to be used to install dependencies. One in the root directory and one in the client directory.
 
